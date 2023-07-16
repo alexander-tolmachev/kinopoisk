@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="360dp"
+            android:layout_height="270dp"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:src="@drawable/image3" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="120dp"
+            android:layout_marginStart="32dp"
+            android:text="Делись"
+            android:layout_gravity="start"
+            android:textColor="@android:color/black"
+            android:textSize="28sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="32dp"
+            android:text="с друзьями"
+            android:layout_gravity="start"
+            android:textColor="@android:color/black"
+            android:textSize="28sp" />
+    </LinearLayout>
+</RelativeLayout>

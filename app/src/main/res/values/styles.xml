@@ -1,0 +1,70 @@
+<resources>
+
+    <style name="Widget.Theme.MVVMPattern.ButtonBar.Fullscreen" parent="">
+        <item name="android:background">@color/black_overlay</item>
+        <item name="android:buttonBarStyle">?android:attr/buttonBarStyle</item>
+    </style>
+
+
+    <style name="HeaderText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/ds_kork</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="SplashScreenTheme" parent="Theme.MVVMPattern">
+        <item name="android:windowBackground">@drawable/background_splash</item>
+    </style>
+
+    <style name="autoscroll">
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+    </style>
+
+    <style name="Widget.Theme.MVVMPattern.ActionBar.Fullscreen" parent="Widget.AppCompat.ActionBar">
+        <item name="android:background">@color/black_overlay</item>
+    </style>
+
+    <style name="ChipTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@android:color/transparent</item>
+        <item name="tabBackground">@drawable/tab_selector_simple</item>
+        <item name="tabSelectedTextColor">?android:textColorPrimary</item>
+    </style>
+
+    <style name="TabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="TabLayout_Theme" parent="@style/AppTheme">
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="MyThemeOverlay_Toolbar" parent="ThemeOverlay.MaterialComponents.Toolbar.Primary">
+        <!-- This attributes is used by navigation icon and overflow icon -->
+        <item name="colorOnPrimary">@color/black</item>
+    </style>
+
+    <style name="DialogStyle" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <!-- dialog_background is drawable shape with corner radius -->
+        <item name="android:background">@drawable/error_dialog_bg</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+    <style name="ErrorDialogStyle" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <!-- dialog_background is drawable shape with corner radius -->
+        <item name="android:background">@drawable/error_dialog_bg</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>

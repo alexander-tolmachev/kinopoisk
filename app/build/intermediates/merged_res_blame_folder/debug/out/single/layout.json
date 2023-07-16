@@ -1,0 +1,186 @@
+[
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\item_simple.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\error_dialog.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\error_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\card_view.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_settings_genres.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings_genres.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\welcome_slide1.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\grid_item.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\activity_fullscreen.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\activity_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\item_tab_viewpager.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_tab_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_item_list_dialog_list_dialog.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_item_list_dialog_list_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\collection_item_horizontal.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\collection_item_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\film_item.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\film_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\bottom_sheet_modal.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\bottom_sheet_modal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_settings_countries.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings_countries.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_slide.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_paged_list.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_paged_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_movie_details.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_tab_gallery.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_tab_gallery.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskup.app-mergeDebugResources-66:/layout/fragment_movie_details.xml",
+        "source": "com.example.kinopoiskup.app-main-69:/layout/fragment_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\results_list_full_item.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\results_list_full_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\movie_item_horizontal.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\movie_item_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\movie_item.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\movie_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\item_card_view.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\results_list_full_item_new.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\results_list_full_item_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\save_dialog.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\save_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\recycler_item.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\item_rv_episode.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_rv_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_search.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_results_recycler_items.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_results_recycler_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\gallery_item.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\gallery_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\expandable_textview.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\expandable_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_settings_date_picker.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_tab.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\activity_welcome.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\button_layout.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\button_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\load_state.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\load_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_settings.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\welcome_slide3.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\load_state_view.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\load_state_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_item_list_dialog_list_dialog_item.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_item_list_dialog_list_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_view_pager.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_actor_details.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_actor_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\welcome_slide2.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-mergeDebugResources-66:\\layout\\fragment_result.xml",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_result.xml"
+    }
+]

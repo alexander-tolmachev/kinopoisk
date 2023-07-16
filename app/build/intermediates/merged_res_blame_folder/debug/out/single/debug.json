@@ -1,0 +1,590 @@
+[
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_load_state.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\load_state.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_sb.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\sb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_results_list_full_item_new.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\results_list_full_item_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_result.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_round_add_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_round_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\xml_preferences.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\xml\\preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_tab_bg_simple.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\tab_bg_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_border_shadow.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\border_shadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_simple_item_background.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\simple_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\color_text_selector.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\color\\text_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_manage_search_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_manage_search_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_clear_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_clear_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_main.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_welcome_slide2.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_weather_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_weather_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_round_corner.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_save_dialog.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\save_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_marker_green.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_marker_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_perm_identity_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_perm_identity_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_results_list_full_item.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\results_list_full_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_movie_item_horizontal.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\movie_item_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_collection_item_horizontal.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\collection_item_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_remove_red_eye_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_remove_red_eye_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_visibility_off_24_blue.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_visibility_off_24_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_tab_bg.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_error_dialog.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\error_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_activity_fullscreen.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\activity_fullscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_gothice.ttf.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\gothice.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_visibility_off_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_visibility_off_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_graphik_medium.ttf.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\graphik_medium.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_image2.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\image2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_graphik_bold.ttf.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\graphik_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_film_item.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\film_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_background_splash.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\background_splash.xml"
+    },
+    {
+        "merged": "com.example.kinopoiskup.app-merged_res-67:/layout_fragment_movie_details.xml.flat",
+        "source": "com.example.kinopoiskup.app-main-69:/layout/fragment_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_font_graphic_family.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\font_graphic_family.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_robot.png.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\robot.png"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_more_vert_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_vdivider.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\vdivider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_create_new_folder_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_create_new_folder_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_seekbar_style.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\seekbar_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_tab_indicator_simple.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\tab_indicator_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_graphik_light.ttf.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\graphik_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_bottom_sheet_modal.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\bottom_sheet_modal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_tab_gallery.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_tab_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_gallery_item.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\gallery_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_share_24_blue.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_share_24_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_image3.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\image3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_switch_thumb_selector.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\switch_thumb_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_custom_edit_text_rounded.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\custom_edit_text_rounded.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_cancel_presentation_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_cancel_presentation_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_bookmark_border_24_blue.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_bookmark_border_24_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_error_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\error_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_actor_details.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_actor_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_bg_button.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\bg_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_right_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_right_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_tab_indicator.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_recycler_item.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\recycler_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_share_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_share_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_seekbar_progress_bg.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\seekbar_progress_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_scatter_plot_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_scatter_plot_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_round_outline_l.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\round_outline_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_search_24dp.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_search_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_deutsch_gothic.ttf.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\deutsch_gothic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_welcome_slide3.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_movie_details.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_movie_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_expandable_textview.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\expandable_textview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_switch_track_selector.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\switch_track_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_bg_tab.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\bg_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_dialog_bg.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_results_recycler_items.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_results_recycler_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_settings_countries.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings_countries.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_custom_thumb.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\custom_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_profile.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_grid_item.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_tune_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_tune_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_outline_restore_from_trash_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_outline_restore_from_trash_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_tab_selector.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_card_view.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_person_outline_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_person_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_favorite_border_24_blue.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_favorite_border_24_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_ds_kork.ttf.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\ds_kork.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_paged_list.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_paged_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_round_outline.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\round_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_marker_red.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_marker_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_map_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_map_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_unchecked_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_unchecked_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_tab.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_selector_row.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\selector_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_search.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_view_pager.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_view_pager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_button_layout.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\button_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_item_simple.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_style_item_selector.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\style_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_seekbar_progress.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\seekbar_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_bookmark_border_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_bookmark_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\anim_alpha.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\anim\\alpha.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_check_box_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_check_box_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_welcome_slide1.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_settings_genres.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings_genres.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_settings.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_visibility_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_visibility_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_slide.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_more_horiz_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_more_horiz_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_load_state_view.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\load_state_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_settings_date_picker.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_settings_date_picker.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_item_rv_episode.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_rv_episode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_left_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_left_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_image1.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\image1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_item_list_dialog_list_dialog_item.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_item_list_dialog_list_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_fragment_item_list_dialog_list_dialog.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\fragment_item_list_dialog_list_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_marker_grey.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_marker_grey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_item_tab_viewpager.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_tab_viewpager.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_add_circle_outline_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\font_graphik_regular.ttf.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\font\\graphik_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_button_shape.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\button_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_movie_item.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\movie_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_more_horiz_24_blue.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_more_horiz_24_blue.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_tab_selector_simple.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\tab_selector_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\layout_item_card_view.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\layout\\item_card_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-merged_res-67:\\drawable_ic_baseline_arrow_forward_24.xml.flat",
+        "source": "C:\\Users\\Val\\.gradle\\daemon\\7.3.3\\com.example.kinopoiskup.app-main-69:\\drawable\\ic_baseline_arrow_forward_24.xml"
+    }
+]

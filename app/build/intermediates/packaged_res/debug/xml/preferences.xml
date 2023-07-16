@@ -1,0 +1,118 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="prefs"
+    xmlns:custom="http://schemas.android.com/tools">
+
+
+    <PreferenceCategory
+        app:icon="@drawable/ic_baseline_tune_24"
+        app:iconSpaceReserved="true"
+        app:title="test name">
+
+        <Preference
+            android:title="Click to vist"
+            android:summary="android site">
+            <intent android:action="android.intent.action.VIEW"
+                android:data="http://www.android.com"/>
+        </Preference>
+
+        <androidx.preference.Preference
+            android:title="Settings"
+            android:icon="@android:drawable/ic_menu_camera"
+            app:iconSpaceReserved="false" />
+
+        <ListPreference
+            app:defaultValue="3"
+            app:entries="@array/search_entries"
+            app:entryValues="@array/search_values"
+            app:key="searching"
+            app:title="Поиск"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:defaultValue="3"
+            app:entries="@array/sort_entries"
+            app:entryValues="@array/sort_values"
+            app:key="sorting"
+            app:title="Сортировка"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="yearmin"
+            app:defaultValue="1970"
+            app:title="От"
+            app:useSimpleSummaryProvider="true" />
+
+        <EditTextPreference
+            app:key="yearmax"
+            app:defaultValue="2022"
+            app:title="До"
+            app:useSimpleSummaryProvider="true" />
+
+        <SwitchPreferenceCompat
+            app:key="compass"
+            app:defaultValue="true"
+            app:summaryOff="Не скрывать"
+            app:summaryOn="Скрывать"
+            app:title="Просмотренные фильмы" />
+
+
+        <com.skydoves.powerspinner.PowerSpinnerPreference
+            android:key="country"
+            android:title="Saved Locations"
+            app:spinner_arrow_gravity="end"
+            app:spinner_arrow_padding="8dp"
+            app:spinner_divider_show="true"
+            app:spinner_divider_size="0.4dp"
+            app:spinner_popup_background="@color/teal_700"
+            android:background="@color/black"
+            android:hint="Выберите страну"
+            android:padding="10dp"
+            android:textColor="@color/purple_200"
+            android:textColorHint="@color/white"
+            android:textSize="14.5sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:spinner_arrow_tint="@color/teal_200"
+            app:spinner_divider_color="@color/teal_700"
+            app:spinner_item_array="@array/questions"
+            app:spinner_popup_animation="normal"
+            app:spinner_popup_elevation="14dp" />
+
+        <com.skydoves.powerspinner.PowerSpinnerPreference
+            android:key="genre"
+            android:title="Saved Locations"
+            app:spinner_arrow_gravity="end"
+            app:spinner_arrow_padding="8dp"
+            app:spinner_divider_show="true"
+            app:spinner_divider_size="0.4dp"
+            app:spinner_popup_background="@color/teal_700"
+            android:background="@color/black"
+            android:hint="Выберите жанр"
+            android:padding="10dp"
+            android:textColor="@color/purple_200"
+            android:textColorHint="@color/white"
+            android:textSize="14.5sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:spinner_arrow_tint="@color/teal_200"
+            app:spinner_divider_color="@color/teal_700"
+            app:spinner_item_array="@array/questions"
+            app:spinner_popup_animation="normal"
+            app:spinner_popup_elevation="14dp" />
+
+
+        <SeekBarPreference
+            android:key="seekbar"
+            android:title="Рейтинг"
+            app:summary="не ниже"
+            android:max="10"
+            app:min="1"
+            app:updatesContinuously="false"
+            app:showSeekBarValue="true"
+            app:adjustable="true"
+            app:seekBarIncrement="1"
+            android:defaultValue="5" />
+
+    </PreferenceCategory>
+</PreferenceScreen>

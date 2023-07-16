@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1android/android_lvl2/android_lvl2/kinopoist_project/app/src/main/res/layout/item_card_view.xml" value="0.33" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/drawable/ic_baseline_weather_24.xml" value="0.1" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/activity_main.xml" value="0.1734375" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_hour_forecast.xml" value="0.20572916666666666" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_location.xml" value="0.1734375" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_locations.xml" value="0.17135416666666667" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_network.xml" value="0.2151268115942029" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_result.xml" value="0.20153985507246377" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/fragment_search.xml" value="0.2151268115942029" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/results_linear_full_item.xml" value="0.20153985507246377" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/results_list_full_item.xml" value="0.2151268115942029" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/results_list_full_item_new.xml" value="0.20153985507246377" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/results_list_item.xml" value="0.2151268115942029" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/layout/weather_item.xml" value="0.2151268115942029" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/menu/bottom_nav_menu.xml" value="0.2265625" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/menu/main.xml" value="0.18697916666666667" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/menu/menu_main.xml" value="0.18697916666666667" />
+        <entry key="..\:/1android/android_lvl2/android_lvl2/presentation_patterns/app/src/main/res/menu/toolbar_menu.xml" value="0.17760416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

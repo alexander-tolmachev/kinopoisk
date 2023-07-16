@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="com.example.kinopoiskup.presentation.MainFragment"
+        android:label="@string/app_name">
+        <action
+            android:id="@+id/nav_list_to_full"
+            app:destination="@id/navigation_moviedetails"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_home"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_navigation_home_to_navigation_pagedlist"
+            app:destination="@id/navigation_pagedlist"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_home"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.example.kinopoiskup.presentation.SearchFragment"
+        android:label="Поиск">
+        <action
+            android:id="@+id/action_nav_search_to_full"
+            app:destination="@id/navigation_moviedetails"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_search"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_nav_search_to_navigation_graphsettings"
+            app:destination="@id/navigation_graph_settings"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_search"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_locations"
+        android:name="com.example.kinopoiskup.presentation.ProfileFragment"
+        android:label="Профиль">
+        <action
+            android:id="@+id/action_nav_locations_to_film"
+            app:destination="@id/navigation_moviedetails"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_locations"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_nav_locations_to_actor"
+            app:destination="@id/navigation_filmstaff"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_locations"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        <action
+            android:id="@+id/action_nav_locations_to_navigation_plainlist"
+            app:destination="@id/navigation_plainlist"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_locations"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_tab_fragment_gallery"
+        android:name="com.example.kinopoiskup.presentation.TabFragmentGallery"
+        android:label="Галерея">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_tab_fragment"
+        android:name="com.example.kinopoiskup.presentation.TabFragment"
+        android:label="Фильмография">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_plainlist_horizontal_fragment"
+        android:name="com.example.kinopoiskup.presentation.PlainListHorizontalFragment"
+        android:label="Над фильмом работали">
+        <action
+            android:id="@+id/action_nav_stafflist_to_actor_details"
+            app:destination="@id/navigation_filmstaff"
+            app:launchSingleTop="true"
+            app:popUpTo="@+id/navigation_filmstaff"
+            app:popUpToInclusive="false"
+            app:exitAnim="@anim/nav_default_exit_anim"
+            app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/navigation_pagedlist"
+        android:name="com.example.kinopoiskup.presentation.PagedListFragment"
+        android:label="Все фильмы">
+        <action
+            android:id="@+id/nav_pagedlist_to_full"
+            app:destination="@id/navigation_moviedetails"
+            />
+        <action
+            android:id="@+id/action_pagedlist_to_home"
+            app:destination="@id/navigation_home"
+            />
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_plainlist"
+        android:name="com.example.kinopoiskup.presentation.PlainListFragment"
+        android:label="Все фильмы">
+        <action
+            android:id="@+id/nav_plainlist_to_full"
+            app:destination="@id/navigation_moviedetails"
+            />
+    </fragment>
+
+
+
+
+
+    <fragment
+        android:id="@+id/navigation_moviedetails"
+        android:name="com.example.kinopoiskup.presentation.MovieDetailsFragment"
+        android:label="">
+        <action
+            android:id="@+id/action_navigation_moviedetails_to_navigation_filstaff"
+            app:destination="@id/navigation_filmstaff" />
+        <action
+            android:id="@+id/action_navigation_moviedetails_to_navigation_viewpager"
+            app:destination="@id/navigation_viewpager" />
+        <action
+            android:id="@+id/action_nav_filminfo_to_full"
+            app:destination="@id/navigation_moviedetails"/>
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_viewpager"
+        android:name="com.example.kinopoiskup.presentation.ViewPagerFragment"
+        android:label="Viewpager">
+    </fragment>
+
+    <fragment
+        android:id="@+id/navigation_filmstaff"
+        android:name="com.example.kinopoiskup.presentation.ActorDetailsFragment"
+        android:label="">
+        <action
+            android:id="@+id/nav_staffinfo_to_full"
+            app:destination="@id/navigation_moviedetails"/>
+    </fragment>
+
+
+    <navigation android:id="@+id/navigation_graph_settings"
+        app:startDestination="@id/navigation_settings">
+
+        <fragment
+            android:id="@+id/navigation_settings"
+            android:name="com.example.kinopoiskup.presentation.SettingsFragment"
+            android:label="Настройки поиска">
+            <action
+                android:id="@+id/action_settings_to_countries"
+                app:destination="@id/navigation_settings_countries"
+                app:launchSingleTop="true"
+                app:popUpTo="@+id/navigation_settings"
+                app:popUpToInclusive="false"
+                app:exitAnim="@anim/nav_default_exit_anim"
+                app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+            <action
+                android:id="@+id/action_settings_to_genres"
+                app:destination="@id/navigation_settings_genres"
+                app:launchSingleTop="true"
+                app:popUpTo="@+id/navigation_settings"
+                app:popUpToInclusive="false"
+                app:exitAnim="@anim/nav_default_exit_anim"
+                app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+            <action
+                android:id="@+id/action_settings_to_years"
+                app:destination="@id/navigation_settings_years"
+                app:launchSingleTop="true"
+                app:popUpTo="@+id/navigation_settings"
+                app:popUpToInclusive="false"
+                app:exitAnim="@anim/nav_default_exit_anim"
+                app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        </fragment>
+        <fragment
+            android:id="@+id/navigation_settings_countries"
+            android:name="com.example.kinopoiskup.presentation.SettingsFragmentCountries"
+            android:label="Страна">
+            <action
+                android:id="@+id/action_countries_to_settings"
+                app:destination="@id/navigation_settings"
+                app:launchSingleTop="true"
+                app:popUpTo="@+id/navigation_graph_settings"
+                app:popUpToInclusive="true"
+                app:exitAnim="@anim/nav_default_exit_anim"
+                app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        </fragment>
+        <fragment
+            android:id="@+id/navigation_settings_genres"
+            android:name="com.example.kinopoiskup.presentation.SettingsFragmentGenres"
+            android:label="Жанр">
+            <action
+                android:id="@+id/action_genres_to_settings"
+                app:destination="@id/navigation_settings"
+                app:launchSingleTop="true"
+                app:popUpTo="@+id/navigation_graph_settings"
+                app:popUpToInclusive="true"
+                app:exitAnim="@anim/nav_default_exit_anim"
+                app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        </fragment>
+        <fragment
+            android:id="@+id/navigation_settings_years"
+            android:name="com.example.kinopoiskup.presentation.SettingsFragmentDatePicker"
+            android:label="Период">
+            <action
+                android:id="@+id/action_years_to_settings"
+                app:destination="@id/navigation_settings"
+                app:launchSingleTop="true"
+                app:popUpTo="@+id/navigation_graph_settings"
+                app:popUpToInclusive="true"
+                app:exitAnim="@anim/nav_default_exit_anim"
+                app:popExitAnim="@anim/nav_default_pop_exit_anim" />
+        </fragment>
+    </navigation>
+
+</navigation>

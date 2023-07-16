@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <TextView
+        android:id="@+id/tv"
+        android:layout_width="82dp"
+        android:layout_height="36dp"
+        android:paddingHorizontal="16dp"
+        android:layout_marginTop="0dp"
+        android:gravity="center_vertical"
+        android:textColor="@color/black"
+        android:text="Сезон"
+        android:textSize="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/tabs"
+        app:layout_constraintBottom_toBottomOf="@+id/tabs"/>
+
+
+            <com.google.android.material.tabs.TabLayout
+                android:id="@+id/tabs"
+                android:layout_width="0dp"
+                android:layout_height="36dp"
+                app:tabBackground="@drawable/bg_tab"
+
+                app:tabTextAppearance="@style/TabTextAppearance"
+                app:tabIndicator="@drawable/bg_tab"
+                app:tabIndicatorAnimationMode="linear"
+                app:tabIndicatorColor="#3D3BFF"
+                app:tabIndicatorFullWidth="true"
+                app:tabIndicatorHeight="35sp"
+                app:tabMode="scrollable"
+                app:tabPaddingEnd="24dp"
+                app:tabPaddingStart="18dp"
+                app:tabRippleColor="@null"
+                app:tabTextColor="@color/text_selector"
+
+                android:layout_marginVertical="8dp"
+                android:paddingEnd="82dp"
+                app:layout_constraintStart_toEndOf="@+id/tv"
+                app:layout_constraintTop_toTopOf="parent"/>
+<!--     android:theme="@style/TabLayout_Theme"
+   app:tabContentStart="50dp"
+                android:fillViewport="false" -->
+
+            <androidx.viewpager2.widget.ViewPager2
+                android:id="@+id/myPager2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tabs"/>
+               <!-- match_parent -->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

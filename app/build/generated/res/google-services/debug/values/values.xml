@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">847740257635-dkv5fovq9bm3gcunek81ljt59tlsv7b8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">847740257635</string>
+    <string name="google_api_key" translatable="false">AIzaSyDGy8GVWFHrL_Jp3hFrnCUUb7-w-UVEu_c</string>
+    <string name="google_app_id" translatable="false">1:847740257635:android:f7a57052d1438810eabf56</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDGy8GVWFHrL_Jp3hFrnCUUb7-w-UVEu_c</string>
+    <string name="google_storage_bucket" translatable="false">test-kinopoisk.appspot.com</string>
+    <string name="project_id" translatable="false">test-kinopoisk</string>
+</resources>

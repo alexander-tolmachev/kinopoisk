@@ -1,0 +1,63 @@
+<resources>
+
+    <string-array name="questions">
+        <item>What is your favourite color?</item>
+        <item>What is your favourite food?</item>
+        <item>What is your favourite pet`s name?</item>
+        <item>What is your favourite coffee?</item>
+        <item>Why Kotlin?</item>
+    </string-array>
+
+<!-- Search Preference -->
+<string-array name="search_entries">
+    <item>Искать все</item>
+    <item>Только фильмы</item>
+    <item>Только сериалы</item>
+</string-array>
+
+<string-array name="search_values">
+    <item>0</item>
+    <item>1</item>
+    <item>2</item>
+</string-array>
+
+    <string-array name="sort_entries">
+        <item>По рейтингу</item>
+        <item>По популярности</item>
+        <item>По дате</item>
+    </string-array>
+
+    <string-array name="sort_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+
+    <plurals name="seasones">
+        <item quantity="one">%d сезон</item><!-- сезон -->
+        <item quantity="two">%d сезона</item><!-- сезона (2) -->
+        <item quantity="few">%d сезона</item><!-- сезона (3,4) -->
+        <item quantity="many">%d сезонов</item><!-- сезонов (5 up) -->
+        <item quantity="other">%d сезонов</item><!-- сезонов (0,11,12,13,14) -->
+    </plurals>
+
+    <plurals name="series">
+        <item quantity="one">%d серия</item><!-- серия -->
+        <item quantity="few">%d серии</item><!-- серии (2,3,4) -->
+        <item quantity="many">%d серий</item><!-- серий (2,3,4) -->
+        <item quantity="other">%d серий</item><!-- серий (2,3,4) -->
+    </plurals>
+
+    <plurals name="films">
+        <item quantity="one">%d фильм</item><!-- серия -->
+        <item quantity="few">%d фильма</item><!-- серии (2,3,4) -->
+        <item quantity="many">%d фильмов</item><!-- серий (2,3,4) -->
+        <item quantity="other">%d фильмов</item><!-- серий (2,3,4) -->
+    </plurals>
+
+    <string-array name="rangeSliderValues">
+    <item>1</item>
+    <item>10</item>
+    </string-array>
+
+</resources>
