@@ -9,11 +9,11 @@ Android Developer
 
 I have been learning to code on assembler, coded for Windows as shareware developer on C, after switching careers I started with Kotlin and Android, and also I have an interest for backend development and server API .
 
-* 🌍  I'm based in Brest
+* 🌍  I'm based in Minsk
 * ✉️  You can contact me at [zelgorod@gmail.com](mailto:zelgorod@gmail.com)
 * 🧠  I'm learning Kotlin, Android, Go, MySQL
 * 🤝  I'm open to collaborating on interesting projects
-* ⚡  My age bothers me just a little bit.
+
 
 ### Skills
 
